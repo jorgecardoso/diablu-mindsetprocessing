@@ -1,5 +1,4 @@
-import oscP5.*;
-import netP5.*;
+
 import processing.serial.*;
 import pt.citar.diablu.processing.mindset.*;
 
