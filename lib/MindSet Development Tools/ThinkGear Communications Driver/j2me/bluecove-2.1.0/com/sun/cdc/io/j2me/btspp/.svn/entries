@@ -1,0 +1,42 @@
+10
+
+dir
+0
+https://diablu.googlecode.com/svn/trunk/MindSet/MindSet%20Development%20Tools/ThinkGear%20Communications%20Driver/j2me/bluecove-2.1.0/com/sun/cdc/io/j2me/btspp
+https://diablu.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a013ffd2-dc1c-0410-a766-57759f07c308
+
+Protocol.class
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

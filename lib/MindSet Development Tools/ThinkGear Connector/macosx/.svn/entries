@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://diablu.googlecode.com/svn/trunk/MindSet/MindSet%20Development%20Tools/ThinkGear%20Connector/macosx
+https://diablu.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a013ffd2-dc1c-0410-a766-57759f07c308
+
+ThinkGear Connector.app
+dir
+
+
+
+add
+
+thinkgear_connector-mac-090622.zip
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

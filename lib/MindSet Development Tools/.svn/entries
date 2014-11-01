@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://diablu.googlecode.com/svn/trunk/MindSet/MindSet%20Development%20Tools
+https://diablu.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a013ffd2-dc1c-0410-a766-57759f07c308
+
+README.rtf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+ThinkGear
+dir
+
+
+
+add
+
+ThinkGear Communications Driver
+dir
+
+
+
+add
+
+ThinkGear Connector
+dir
+
+
+
+add
+
+developer_tools_2.1_development_guide.pdf
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

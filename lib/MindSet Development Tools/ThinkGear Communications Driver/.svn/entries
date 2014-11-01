@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://diablu.googlecode.com/svn/trunk/MindSet/MindSet%20Development%20Tools/ThinkGear%20Communications%20Driver
+https://diablu.googlecode.com/svn
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a013ffd2-dc1c-0410-a766-57759f07c308
+
+docs
+dir
+
+
+
+add
+
+j2me
+dir
+
+
+
+add
+
+macosx
+dir
+
+
+
+add
+
+win32
+dir
+
+
+
+add
+
+winmobile
+dir
+
+
+
+add
+
